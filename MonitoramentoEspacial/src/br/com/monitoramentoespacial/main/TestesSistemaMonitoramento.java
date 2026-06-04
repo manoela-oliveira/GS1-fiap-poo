@@ -2,6 +2,8 @@ package br.com.monitoramentoespacial.main;
 
 import br.com.monitoramentoespacial.model.*;
 
+// Arquivo adicionado a fim de realizar a verificação do sistema e garantir que seu funcionamento esteja correto
+
 public class TestesSistemaMonitoramento {
 
     public static void main(String[] args) {
@@ -73,7 +75,7 @@ public class TestesSistemaMonitoramento {
 
         // Proteção do Java contra instanciamento de classes abstratas
         System.out.println("\n>>> [TESTE 6] Verificando isolamento físico de conceitos abstratos");
-        System.out.println("Linhas propositalmente comentadas para evitar erros de compilação do compilador Java.\n Para realizar o teste, descomente-as.");
+        System.out.println("Linhas propositalmente comentadas para evitar erros de compilação do compilador Java.\nPara realizar o teste, descomente-as.");
         
         // Descomente as linhas abaixo para validar o bloqueio físico do compilador:
         // ComponenteEspacial componenteGenerico = new ComponenteEspacial("C-GEN", "Hardware Fantasma");
