@@ -3,6 +3,26 @@
 > **Professor:** Ygor Moraes Martins dos Anjos
 ---
 
+### Tecnologias Utilizadas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java" />
+  </a>
+</p>
+
+### Tópicos Avaliados
+<ul>
+  <li>Encapsulamento</li>
+  <li>Herança</li>
+  <li>Associação</li>
+  <li>Construtores</li>
+  <li>Polimorfismo</li>
+  <li>Abstração</li>
+  <li>Interfaces</li>
+  <li>Clean Code</li>
+  <li>Aplicação das instruções</li>
+</ul>
+
 ## Instruções para entrega - Estruturação do projeto
 
 O objetivo macro é construir uma plataforma de monitoramento de sistemas espaciais. 
@@ -25,7 +45,7 @@ O objetivo macro é construir uma plataforma de monitoramento de sistemas espaci
 *   Subclasses `PropulsaoQuimica` e `PropulsaoEletrica` herdam da base, implementando atributos próprios e sobrescrevendo o método `acelerar()`.
 *   Uso correto da instrução `super()` para acessar construtores e métodos da classe mãe.
 
-## Funcionalidades do Sistema
+### Funcionalidades obrigatórias para o sistema
 
 *   **Sistema de Sensores:** Leitura de valores (simulados por valores aleatórios), verificação de funcionamento e detecção de limites de segurança.
 *   **Sistema de Propulsão:** Controle de ativação, aceleração com potência controlada (0-100), cálculo de empuxo e validação de valores de entrada.
@@ -34,26 +54,6 @@ O objetivo macro é construir uma plataforma de monitoramento de sistemas espaci
 *   **Sistema de Alertas:** Monitoramento e exibição de mensagens no console com diferentes níveis de gravidade (`ATENÇÃO`, `ALERTA`, `CRÍTICO`).
 
 ---
-
-### Tecnologias Utilizadas
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java" />
-  </a>
-</p>
-
-### Tópicos Avaliados
-<ul>
-  <li>Encapsulamento</li>
-  <li>Herança</li>
-  <li>Associação</li>
-  <li>Construtores</li>
-  <li>Polimorfismo</li>
-  <li>Abstração</li>
-  <li>Interfaces</li>
-  <li>Clean Code</li>
-  <li>Aplicação das instruções</li>
-</ul>
 
 ## Estrutura final da entrega
 
