@@ -1,4 +1,4 @@
-# Global Solution POO - Progamação Orientada a Objeto
+# Global Solution - Progamação Orientada a Objeto
 
 > **Professor:** Ygor Moraes Martins dos Anjos
 ---
